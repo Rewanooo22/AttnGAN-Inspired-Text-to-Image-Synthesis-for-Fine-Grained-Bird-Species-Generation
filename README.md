@@ -12,8 +12,6 @@ which contains the notebook, the paper draft and full documentation.
 | `AttnGAN_Scientific_Paper.docx` | Paper draft describing the project |
 | `LICENSE` | MIT License |
 
-The executed notebook in this repository is the source of the run outputs (training losses and proxy metrics) referenced in the maintained repository's README. Note that the paper draft's reported improvements do not match those executed outputs; see the maintained README for details.
-
 ## License
 
 Released under the [MIT License](LICENSE).
