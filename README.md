@@ -35,7 +35,7 @@ These come from a single 60-epoch run on 200 images. The loss curves, generated 
 |---|---|
 | `AttnGAN_Bird_Text_to_Image (1).ipynb` | Colab notebook with the full pipeline and its saved outputs |
 | `AttnGAN_Scientific_Paper.docx` | Paper draft describing the project |
-| `LICENSE` | License file |
+| `LICENSE` | MIT License |
 
 ## Run it
 
